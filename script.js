@@ -26,9 +26,8 @@ var userNum4 = prompt('Решите пример: 17 % 3');
 
 console.log('Ваше имя: ' + firstName);
 console.log('Ваш возраст: ' + myAge);
-console.log('8 + 9 = ' + userNum + ' ; ' + 'правильный ответ: ' + trueEx)
-console.log('20 * 3 = ' + userNum2 + ' ; ' + 'правильный ответ: ' + trueEx2)
-console.log('64 / 8 = ' + userNum3 + ' ; ' + 'правильный ответ: ' + trueEx3)
-console.log('17 % 3 = ' + userNum4 + ' ; ' + 'правильный ответ: ' + trueEx4)
-
-alert('Спасибо за ответы, теперь откройте консоль и проверьте ваши ответы')
+console.log('8 + 9 = ' + userNum + ' ; ' + 'правильный ответ: ' + trueEx);
+console.log('20 * 3 = ' + userNum2 + ' ; ' + 'правильный ответ: ' + trueEx2);
+console.log('64 / 8 = ' + userNum3 + ' ; ' + 'правильный ответ: ' + trueEx3);
+console.log('17 % 3 = ' + userNum4 + ' ; ' + 'правильный ответ: ' + trueEx4);
+alert('Спасибо за ответы, теперь откройте консоль и проверьте ваши ответы');
